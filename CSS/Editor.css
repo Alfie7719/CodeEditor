@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+#editor-container {
+  height: 50%;
+}
+#preview-container {
+  height: 50%;
+  overflow: auto;
+}
